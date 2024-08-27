@@ -5,5 +5,3 @@ Lista de Series
 - Lucifer
 - Sabrina
 - Supernatural
-- Novo
-- mais um
