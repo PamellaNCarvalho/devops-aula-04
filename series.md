@@ -9,3 +9,5 @@ Lista de Series
 - Sabrina
 
 - Supernatural
+
+- Novo
