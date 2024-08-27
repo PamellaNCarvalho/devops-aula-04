@@ -2,7 +2,7 @@ Lista de Series
 
 - GOT
 
-- Dexter.+
+
 
 - Lucifer
 
